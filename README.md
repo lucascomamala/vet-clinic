@@ -84,6 +84,15 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **More tablles**
+- [ ] **More queries**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
