@@ -37,8 +37,6 @@ After you're finished please remove all the comments and instructions!
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -51,7 +49,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Vet Clinic Database <a name="about-project"></a>
 
-**Vet Clinic Database[your_project__name]** is a project to create the data scruture for a veterinary clinic using a relational database. It also has some chellenge SQL queries that answer specific questions.
+**Vet Clinic Database** is a project to create the data scruture for a veterinary clinic using a relational database. It also has some chellenge SQL queries that answer specific questions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -91,6 +89,10 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+<ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+
 <!--
 Example command:
 
@@ -103,6 +105,10 @@ Example command:
 
 Clone this repository to your desired folder:
 
+cd my-folder
+
+git clone https://github.com/lucascomamala/vet-clinic.git
+
 <!--
 Example commands:
 
@@ -114,7 +120,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Run the individual commands in schema.sql and data.sql
 
 <!--
 Example command:
@@ -127,7 +133,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+Execute the queris through the command line
 
 <!--
 Example command:
@@ -136,30 +142,6 @@ Example command:
   rails server
 ```
 --->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
